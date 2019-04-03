@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "280776941149",
+    "firebase_url": "https://workmanager-demo.firebaseio.com",
+    "project_id": "workmanager-demo",
+    "storage_bucket": "workmanager-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280776941149:android:b5146b3b7816df22",
+        "android_client_info": {
+          "package_name": "com.example.workmanagertutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9zWUUNN6dDQIsLG2mzSdkbqtnE4Y8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280776941149-2citfebnhdf0bm7kll3flrau5fqpti5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
